@@ -1,0 +1,21 @@
+# ninja log v5
+0	11	1712570255607748158	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	7a73ce362b07e3c5
+0	11	1712570255607748158	/Users/alexbeck/Downloads/South-Park-Animation/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	7a73ce362b07e3c5
+11	1830	1712570257426801619	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	d2300eab4667b699
+11	1830	1712570257426801619	/Users/alexbeck/Downloads/South-Park-Animation/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	d2300eab4667b699
+1830	1853	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	40ca4b6a46dfeb08
+1830	1853	0	/Users/alexbeck/Downloads/South-Park-Animation/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	40ca4b6a46dfeb08
+1853	1862	1712570257458992389	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	2e628d472933eaf4
+1853	1862	1712570257458992389	/Users/alexbeck/Downloads/South-Park-Animation/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	2e628d472933eaf4
+1862	1870	1712570257467489531	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f8a67db13a529c33
+1862	1870	1712570257467489531	/Users/alexbeck/Downloads/South-Park-Animation/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f8a67db13a529c33
+1870	1879	1712570257476034298	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	d6a2339e2e620862
+1870	1879	1712570257476034298	/Users/alexbeck/Downloads/South-Park-Animation/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	d6a2339e2e620862
+1879	1887	1712570257484676106	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	4835aa78b74344d3
+1879	1887	1712570257484676106	/Users/alexbeck/Downloads/South-Park-Animation/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	4835aa78b74344d3
+1888	1896	1712570257493126123	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	a62b14327e3cc7b0
+1888	1896	1712570257493126123	/Users/alexbeck/Downloads/South-Park-Animation/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	a62b14327e3cc7b0
+1896	1908	1712570257505319355	CMakeFiles/googletest-populate-complete	3ac3fe6c24768934
+1896	1908	1712570257505319355	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	3ac3fe6c24768934
+1896	1908	1712570257505319355	/Users/alexbeck/Downloads/South-Park-Animation/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	3ac3fe6c24768934
+1896	1908	1712570257505319355	/Users/alexbeck/Downloads/South-Park-Animation/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	3ac3fe6c24768934
